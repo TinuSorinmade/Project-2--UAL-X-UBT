@@ -33,7 +33,7 @@ This project is a Python-based Pinterest image scraper designed to automate the 
 ### What I Would Do Differently
 
 - Expand the range of data sources to include additional Pinterest boards or other platforms.
-- 
+  
 ### Ethical Statement
 
 - **Data Sources and Biases:** Data was sourced from publicly accessible Pinterest boards. The dataset represents personal choices and may include biases.
